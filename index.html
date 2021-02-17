@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html style="font-size:50px;">
+<!-- manifest="app5.4_1.appcache" -->
+<head >
+  <meta charset="utf-8">
+  <title>上上盈APP</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="icon" href="./imgs/logo.png">
+  
+  <link href="./main.a69672.css" rel="stylesheet">
+  
+
+  <style>
+
+    .nocopy{
+      -moz-user-select:none;-webkit-user-select:none;
+    }
+    .container>*{
+    	height:100%;overflow: auto;
+    }
+    /*解决chrome
+     * [Intervention] Unable to preventDefault inside passive event listener due to target being treated as
+     * */
+    /** { touch-action: none; }*/
+  </style>
+</head>
+
+<body class="zh nocopy" style="background:#fff!important;overflow:hidden" >
+
+
+  <div id="app" style="overflow:scroll"></div>
+  <script src="./js/jquery.min.js"></script>
+  <!-- 处理ios黑图 -->
+  <script src="./js/webp.js"></script>
+
+  <!-- <script src="./js/eruda.js"></script> -->
+
+
+  <script src="./js/jsencrypyo.js"></script>
+  <!-- 超出显示...插件,兼容webpack打包不兼容css样式 -->
+  <script src="./js/lineEllipise.js"></script>
+
+  <script type="text/javascript">
+  /*移动端打开调试工具*/
+
+	  /*eruda.init();
+	  console.log('控制台打印信息');*/
+
+
+    var oldHeight = $(window).height();
+    (function(){
+      //checkVersion();
+      function changeRootFont(){
+        var designWidth = 750, rem2px = 100;
+        if(window.innerWidth >= 600 ){
+        	document.documentElement.style.fontSize = '80px';
+
+        	$('#app').css({
+            'width':'500px!important',
+            'overflow':'hidden'
+        	})
+
+        }else{
+        	var u = navigator.userAgent;
+          if(u.indexOf('iPhone')>-1 && window.innerWidth==320&&window.innerHeight==460){
+            document.documentElement.style.fontSize = '30px';
+
+          }else{
+            document.documentElement.style.fontSize = ((window.innerWidth / designWidth) * rem2px) + 'px';
+          }
+
+
+        }
+
+        var newHeight = $(window).height();
+        if(oldHeight-newHeight<=100){
+          var height = newHeight*0.90;
+          $('.footBar').css('top',height)
+        }
+      }
+
+      changeRootFont();
+      window.addEventListener('resize', changeRootFont,false)
+    })();
+    //处理页面图片路径错误
+    // document.addEventListener("error", function(e){
+    //   var elem = e.target;
+    //   if(elem.tagName.toLowerCase() === 'img'){
+    //     elem.src = "imgs/noImg.png";
+    //   }
+    // }, true);
+
+
+  /*检测版本更新是否成功*/
+  function checkVersion(){
+    var manifest = $("html").attr("manifest");
+    var href = window.location.href;
+    if(!manifest){
+      return false
+    }
+    console.log("11111111")
+    console.log(version)
+    console.log(manifest)
+    console.log(href)
+    var check = version;
+    JSON.stringify()
+    if(version){
+
+      //为了防止无限刷新 重新进入只刷新一次
+      if(manifest != version && href.indexOf(version) == "-1" ){
+        window.location.href=href.replace("/index.html","/index.html?versions="+version+parseInt(Math.random()*100));
+      }
+    }
+
+  }
+
+  </script>
+    
+  <script src="./main.7f650b.js"></script>
+  
+
+</body>
+
+
+
+</html>

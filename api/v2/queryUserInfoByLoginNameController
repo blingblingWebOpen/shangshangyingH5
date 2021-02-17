@@ -1,0 +1,17 @@
+{
+  "rspHead": {
+    "traceNo": "201711301704015717",
+    "tranSuccess": "1"
+  },
+  "rspBody": {
+    "inChargeSystem": "d",
+    "address": "d",
+    "mobilePhone": "d",
+    "phone": "d",
+    "nativePlace": "beijding",
+    "userName": "顾小波",
+    "department": "开发四部",
+    "email": "chenr14@bankcomm.com",
+    "group": "d"
+  }
+}

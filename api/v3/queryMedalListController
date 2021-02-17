@@ -1,0 +1,82 @@
+{
+   "RSP_HEAD":    {
+      "TRACE_NO":"201712181120292746",
+      "TRAN_SUCCESS":"1"
+   },
+  "RSP_BODY": {
+	   "result":[
+	        {"id":"0001", "img":"/imgs/medal/a-1.png", "title":"偷闲躲静", "condition": "单次<1km"},
+	        {"id":"0002", "img":"/imgs/medal/a3-1.png", "title":"步步生花", "condition": "单次3km"},
+	        {"id":"0003", "img":"/imgs/medal/a5-1.png", "title":"最美风景", "condition": "单次5km"},
+	        {"id":"0004", "img":"/imgs/medal/a10-1.png", "title":"百无禁忌", "condition": "单次10km"},
+	        {"id":"0005", "img":"/imgs/medal/a25-1.png", "title":"接二连三", "condition": "单次25km"},
+	        {"id":"0006", "img":"/imgs/medal/a20-1.png", "title":"热血人生", "condition": "单次20km"},
+	        {"id":"0007", "img":"/imgs/medal/a50-1.png", "title":"周末撒欢", "condition": "单次50km"},
+	   
+	        {"id":"0009", "img":"/imgs/medal/c300-1.png", "title":"勇于改变", "condition": "累计300km"},
+	        {"id":"00010", "img":"/imgs/medal/c600-1.png", "title":"挑战自己", "condition": "累计600km"},
+	        {"id":"00011", "img":"/imgs/medal/c1000-1.png", "title":"健步如飞", "condition": "累计1000km"},
+	        {"id":"00012", "img":"/imgs/medal/c1800-1.png", "title":"展示健美", "condition": "累计1800km"},
+	        {"id":"00014", "img":"/imgs/medal/c3000-1.png", "title":"强健体魄", "condition": "累计3000km"},
+	        {"id":"00013", "img":"/imgs/medal/c5000-1.png", "title":"牛气冲天", "condition": "累计5000km"},
+	      
+	        {"id":"00016", "img":"/imgs/medal/d3-1.png", "title":"屯东先锋", "condition": "连续3天累计15km"},
+	        {"id":"00018", "img":"/imgs/medal/d7-1.png", "title":"坚持不懈", "condition": "连续7天累计15km"},
+	        {"id":"00019", "img":"/imgs/medal/d15-1.png", "title":"霸者重装", "condition": "连续15天累计15km"},
+	        {"id":"00020", "img":"/imgs/medal/d30-1.png", "title":"强者在厉", "condition": "连续30天累计15km"},
+	        {"id":"00021", "img":"/imgs/medal/d60-1.png", "title":"持之以恒", "condition": "连续60天累计15km"},
+	        {"id":"00022", "img":"/imgs/medal/d100-1.png", "title":"千言万语", "condition": "连续100天累计15km"},
+	        {"id":"00023", "img":"/imgs/medal/d200-1.png", "title":"五体投地", "condition": "连续200天累计15km"},
+	        {"id":"00024", "img":"/imgs/medal/d365-1.png", "title":"周而复始", "condition": "连续365天累计15km"},
+ 
+	        {"id":"00025", "img":"/imgs/medal/b3-1.png", "title":"越来越好", "condition": "连续健走3天"},
+	        {"id":"00026", "img":"/imgs/medal/b7-1.png", "title":"百事可乐", "condition": "连续健走7天"},
+	        {"id":"00028", "img":"/imgs/medal/b15-1.png", "title":"冲锋者号", "condition": "连续健走15天"},
+	        {"id":"00029", "img":"/imgs/medal/b30-1.png", "title":"成者为王", "condition": "连续健走30天"},
+	        {"id":"00030", "img":"/imgs/medal/b60-1.png", "title":"强者称王", "condition": "连续健走60天"},
+	        {"id":"00017", "img":"/imgs/medal/d100-1.png", "title":"超能战士", "condition": "连续健走100天"},
+	        {"id":"00027", "img":"/imgs/medal/b200-1.png", "title":"信仰如坚", "condition": "连续健走200天"},
+	        {"id":"0008", "img":"/imgs/medal/b365-1.png", "title":"极限星人", "condition": "连续健走365天"},
+	        {"id":"00015", "img":"/imgs/medal/b500-1.png", "title":"伟大征程", "condition": "连续健走500天"}
+	    ],
+	    "result1":[
+	        {"id":"0001", "img":"/imgs/medal/aa5.png", "title":"闪亮登场", "condition": "单次骑行5km"},
+	        {"id":"0002", "img":"/imgs/medal/aa10.png", "title":"骑赢自己", "condition": "单次骑行10km"},
+	        {"id":"0003", "img":"/imgs/medal/aa15.png", "title":"减排有我", "condition": "单次骑行15km"},
+	        {"id":"0004", "img":"/imgs/medal/aa20.png", "title":"丈量城市", "condition": "单次骑行20km"},
+	   
+	        {"id":"0005", "img":"/imgs/medal/bb20-1.png", "title":"骑乐无穷", "condition": "累计骑行20km"},
+	        {"id":"0006", "img":"/imgs/medal/bb50-1.png", "title":"地表最强", "condition": "累计骑行50km"},
+	        {"id":"0007", "img":"/imgs/medal/bb100-1.png", "title":"坚韧之心", "condition": "累计骑行100km"},
+	        {"id":"0008", "img":"/imgs/medal/bb300-1.png", "title":"一少见多", "condition": "累计骑行300km"},
+	        {"id":"0009", "img":"/imgs/medal/bb600-1.png", "title":"滴水石穿", "condition": "累计骑行600km"},
+	        {"id":"00010", "img":"/imgs/medal/bb1000-1.png", "title":"有容乃大", "condition": "累计骑行1000km"},
+	        {"id":"00011", "img":"/imgs/medal/bb1800-1.png", "title":"骑行自乐", "condition": "累计骑行1800km"},
+	        {"id":"00012", "img":"/imgs/medal/bb3000-1.png", "title":"强健腿肌", "condition": "累计骑行3000km"},
+	        {"id":"00013", "img":"/imgs/medal/bb5000-1.png", "title":"健骑如飞", "condition": "连续骑行5000km"},
+	        {"id":"00014", "img":"/imgs/medal/bb8000-1.png", "title":"自由射手", "condition": "累计骑行8000km"},
+	        {"id":"00015", "img":"/imgs/medal/bb10000-1.png", "title":"探索里程", "condition": "累计骑行10000km"},
+	      
+	        {"id":"00016", "img":"/imgs/medal/cc3-1.png", "title":"星星燎原", "condition": "连续3天累计15km"},
+	        {"id":"00017", "img":"/imgs/medal/cc7-1.png", "title":"积少成多", "condition": "连续7天累计15km"},
+	        {"id":"00018", "img":"/imgs/medal/cc15-1.png", "title":"厚积薄发", "condition": "连续15天累计15km"},
+	        {"id":"00019", "img":"/imgs/medal/cc30-1.png", "title":"骑行如飞", "condition": "连续30天累计15km"},
+	        {"id":"00020", "img":"/imgs/medal/cc60-1.png", "title":"大神你好", "condition": "连续60天累计15km"},
+	        {"id":"00021", "img":"/imgs/medal/cc100-1.png", "title":"咬紧牙关", "condition": "连续100天累计15km"},
+	        {"id":"00022", "img":"/imgs/medal/cc200-1.png", "title":"突破自我", "condition": "连续200天累计15km"},
+	        {"id":"00023", "img":"/imgs/medal/cc365-1.png", "title":"激情无限", "condition": "连续365天累计15km"},
+ 
+	        {"id":"00024", "img":"/imgs/medal/dd3-1.png", "title":"逍遥骑士", "condition": "连续骑行3天"},
+	        {"id":"00025", "img":"/imgs/medal/dd7-1.png", "title":"再接再厉", "condition": "连续骑行7天"},
+	        {"id":"00026", "img":"/imgs/medal/dd15-1.png", "title":"健行健骑", "condition": "连续骑行15天"},
+	        {"id":"00027", "img":"/imgs/medal/dd30-1.png", "title":"骑势如虹", "condition": "连续骑行30天"},
+	        {"id":"00028", "img":"/imgs/medal/dd60-1.png", "title":"冰封千里", "condition": "连续骑行60天"},
+	        {"id":"00029", "img":"/imgs/medal/dd100-1.png", "title":"白银骑士", "condition": "连续骑行100天"},
+	        {"id":"00030", "img":"/imgs/medal/dd200-1.png", "title":"黄金铠甲", "condition": "连续骑行200天"},
+	        {"id":"00031", "img":"/imgs/medal/dd365-1.png", "title":"完美迹骑", "condition": "连续骑行365天"},
+	        {"id":"00032", "img":"/imgs/medal/dd500-1.png", "title":"畅走九州", "condition": "连续骑行500天"},
+	        {"id":"00033", "img":"/imgs/medal/dd800-1.png", "title":"王者归来", "condition": "连续骑行800天"},
+	        {"id":"00034", "img":"/imgs/medal/dd1000-1.png", "title":"最强王者", "condition": "连续骑行1000天"}
+	    ]
+    }
+}

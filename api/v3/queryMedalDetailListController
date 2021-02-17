@@ -1,0 +1,15 @@
+{
+   "RSP_HEAD":    {
+      "TRACE_NO":"201712181120292746",
+      "TRAN_SUCCESS":"1"
+   },
+  "RSP_BODY": {
+	   "list":[
+	       {"id":"0001", "department":"总行开发一部", "name":"张先生", "date": "20180326"},
+	       {"id":"0002", "department":"总行开发一部", "name":"张先生", "date": "20180326"},
+	       {"id":"0003", "department":"总行开发一部", "name":"张先生", "date": "20180326"},
+	       {"id":"0004", "department":"总行开发一部", "name":"张先生", "date": "20180326"}
+	      
+	     ]
+   }
+}

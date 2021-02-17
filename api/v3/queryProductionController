@@ -1,0 +1,20 @@
+{
+   "RSP_HEAD":    {
+      "TRACE_NO":"201712181120292746",
+      "TRAN_SUCCESS":"1"
+   },
+  "RSP_BODY": {
+	   "result":[
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3","price": "9.9", "originPrice":"15", "sold":"65"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "7.9", "originPrice":"12", "sold":"75"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "4.9", "originPrice":"13", "sold":"35"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "7.9", "originPrice":"14", "sold":"25"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "7.9", "originPrice":"14", "sold":"25"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "7.9", "originPrice":"14", "sold":"25"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "7.9", "originPrice":"14", "sold":"25"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "7.9", "originPrice":"14", "sold":"25"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "7.9", "originPrice":"14", "sold":"25"},
+       { "img":"/imgs/zixun1.png", "title":"蛋挞", "quantity":"3", "price": "2.9", "originPrice":"17", "sold":"95"}
+     ]
+   }
+}

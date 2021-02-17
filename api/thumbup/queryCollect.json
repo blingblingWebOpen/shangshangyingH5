@@ -1,0 +1,34 @@
+{
+    "RSP_BODY": {
+        "list": [
+            {
+                "targetId": "00000000000000000001",
+                "time": "20180425122544",
+                "type": "001",
+                "title": "测试资讯标题1",
+                "brief": "测试资讯摘要1",
+                "cover": "hpbc/hpbc/information/a.jpg"
+            },
+            {
+                "targetId": "00000000000000000002",
+                "time": "20180425130916",
+                "type": "001",
+                "title": "测试资讯标题2",
+                "brief": "测试资讯摘要2",
+                "cover": "hpbc/hpbc/information/a.jpg"
+            },
+            {
+                "targetId": "00000000000000000008",
+                "time": "20180425121440",
+                "type": "001",
+                "title": "测试资讯标题6",
+                "brief": "测试资讯摘要6",
+                "cover": "hpbc/hpbc/information/a.jpg"
+            }
+        ]
+    },
+    "RSP_HEAD": {
+        "TRAN_SUCCESS": "1",
+        "TRACE_NO": "4537c8ce-9209-401c-b283-822dac42a2c3"
+    }
+}

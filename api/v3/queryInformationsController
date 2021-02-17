@@ -1,0 +1,24 @@
+{
+   "RSP_HEAD":    {
+      "TRACE_NO":"201712181120292746",
+      "TRAN_SUCCESS":"1"
+   },
+  "RSP_BODY": {
+	   "result":[
+
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案1", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案2", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案3", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案4", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案5", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案6", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案7", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案8", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案9", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"},
+	       { "cover":"/imgs/zixun1.png", "title":"关爱员工福利讨论方案10", "brief": "为规范员工福利制度为规范员工福利制度为规范员工制度"}
+	     ]
+	     
+     
+
+   }
+}

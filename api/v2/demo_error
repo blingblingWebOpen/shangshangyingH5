@@ -1,0 +1,9 @@
+{
+  "rspHead": {
+    "errorMessage": "登录过期，请重新登录！",
+    "errorCode": "ERROR_TOKEN_INVALID",
+    "traceNo": "DEMO0001",
+    "tranSuccess": "0"
+  },
+  "rspBody": {}
+}

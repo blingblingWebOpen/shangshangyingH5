@@ -1,0 +1,12 @@
+{
+   "rspHead":    {
+      "traceNo":"201712181120292746",
+      "tranSuccess":"1"
+   },
+  "rspBody": {
+	  "assetList":[ "第一条记录", "第二条记录"],
+	  "successfulCount":"20",
+	  "failedCount":"10",
+	  "failedList":["第一条记录", "第二条记录"]
+   }
+}

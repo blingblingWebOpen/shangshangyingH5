@@ -1,0 +1,25 @@
+{
+    "RSP_BODY": {
+        "oneNewsInfo": {
+            "messageId": 7,
+            "type": "001",
+            "title": "测试资讯标题5",
+            "brief": "测试资讯摘要5",
+            "cover": "resources/static/a.jpg",
+            "content": null,
+            "detailUrl": "aaaa.html",
+            "thumbupStatus": "1",
+            "commentStatus": "1",
+            "agencyId": "001",
+            "publishTime": "201804231235  ",
+            "readNum": 0,
+            "thumbupNum": 0,
+            "commentNum": 0,
+            "code": 0
+        }
+    },
+    "RSP_HEAD": {
+        "TRAN_SUCCESS": "1",
+        "TRACE_NO": "9fb1a3f3-1b22-432e-85b4-e3a6a5c51dda"
+    }
+}
